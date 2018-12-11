@@ -49,6 +49,7 @@ int main(){
             v.pb({0, ls});
         }
     }
+    //Condition for detcting error.
     if (ff==1){
         cout<<"ERROR\n";
     }
